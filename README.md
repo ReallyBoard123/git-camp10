@@ -6,5 +6,3 @@ This is a new line.
 # This is my heading 1
 
 ## This is my heading 2
-
-### This is my heading 3
