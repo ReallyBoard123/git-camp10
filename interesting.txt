@@ -1,2 +1,5 @@
 This is an interesting line.
 I added this line in VSCode.
+
+
+I know that you don't like me. This is going to be a conflict.
